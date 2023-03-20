@@ -9,13 +9,13 @@ int main() {
    cin >> choice;
    switch(choice) {
       case 1:
-         cout << "Function Sum is in development" << endl;
+         cout << "Sum=" << c;
          break;
       case 2:
          cout << "Function Sub is in development" << endl;
          break;
       case 3:
-         cout << "Function Mul is in development" << endl;
+         cout << "Mul=" << c;
          break;
       case 4:
          if(b != 0) {
